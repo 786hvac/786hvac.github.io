@@ -63,7 +63,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80') center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://bryansfuel.on.ca/wp-content/uploads/2023/06/june-2023-blog-feature-bf-1-1024x576.jpg') center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
